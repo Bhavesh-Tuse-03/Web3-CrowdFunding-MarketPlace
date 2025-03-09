@@ -1,2 +1,14 @@
-# Web3 CrowdFunding MarketPlace
- CrowdFunding DApp A decentralized crowdfunding platform built on Ethereum, allowing users to create and donate to campaigns seamlessly. This project leverages Smart Contracts for secure transactions and Next.js for a modern, server-rendered user interface. Perfect for learning blockchain development and deploying your first DApp!  Features: Create and manage crowdfunding campaigns.  Donate to campaigns using Ether.  View campaign details, including targets, deadlines, and funds collected.  Built with Hardhat for smart contract development and ethers.js for blockchain interactions.  Tech Stack: Frontend: Next.js, Tailwind CSS  Backend: Solidity, Hardhat  Blockchain: Ethereum (Local Hardhat Network)  Why This Project? This is my first GitHub upload, showcasing my journey into blockchain development. It’s a great starting point for anyone interested in building decentralized applications with Next.js!
+#CrowdFunding DApp
+A decentralized crowdfunding platform on Ethereum, enabling users to create and donate to campaigns. Built with Smart Contracts, Next.js, and Tailwind CSS. Perfect for learning blockchain development and deploying your first DApp!
+Features:
+Create and manage campaigns.
+Donate using Ether.
+View campaign details.
+
+Tech Stack:
+Frontend: Next.js, Tailwind CSS
+Backend: Solidity, Hardhat
+Blockchain: Ethereum (Local Hardhat Network)
+
+Why This Project?
+My first GitHub upload, showcasing my journey into blockchain development. A great starting point for building decentralized apps with Next.js!
